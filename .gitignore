@@ -1,0 +1,17 @@
+# dependencies
+boards/node_modules
+boards/.pnp
+cards/node_modules
+cards/.pnp
+in-browser/node_modules
+in-browser/.pnp
+
+# testing
+boards/coverage
+cards/coverage
+in-browser/coverage
+
+# production
+boards/build
+cards/build
+in-browser/build
